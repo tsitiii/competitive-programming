@@ -6,7 +6,7 @@ class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
         sorted_tasks = [(enqueue, process, i) for i, (enqueue, process) in enumerate(tasks)]
         sorted_tasks.sort()
-        
+        #dggg
         min_heap = [] 
         result = []
         current_time = 0
