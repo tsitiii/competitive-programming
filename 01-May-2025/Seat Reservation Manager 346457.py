@@ -14,6 +14,6 @@ class SeatManager:
 
 
 # Your SeatManager object will be instantiated and called as such:
-# obj = SeatManager(n)
+# objjj = SeatManager(n)
 # param_1 = obj.reserve()
 # obj.unreserve(seatNumber)
