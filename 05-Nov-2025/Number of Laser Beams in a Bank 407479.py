@@ -1,4 +1,4 @@
-# Problem: Number of Laser Beams in a Bank - https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+# problem: number of Laser Beams in a Bank - https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
