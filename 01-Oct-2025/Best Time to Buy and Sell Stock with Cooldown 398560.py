@@ -1,5 +1,5 @@
 # Problem: Best Time to Buy and Sell Stock with Cooldown - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
-
+# good old times
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         memo = {}
